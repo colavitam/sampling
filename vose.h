@@ -1,3 +1,10 @@
+/*
+ * An implementation of Vose's alias table method, allowing for O(1) sampling
+ * from categorical distributions with O(k) setup time. This method was
+ * proposed in "A Linear Algorithm for Generating Random Numbers with a given
+ * Distribution".
+ */
+
 #ifndef VOSE_H
 #define VOSE_H
 
