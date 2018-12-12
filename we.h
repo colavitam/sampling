@@ -1,6 +1,6 @@
 /*
  * An implementation of Wong and Easton's tree-based method for sampling
- * categorical random variables. The orginial algorithm was specified in
+ * categorical random variables. The orginal algorithm was specified in
  * "An Efficient Method for Weighted Sampling without Replacement". This
  * implementation uses a fixed size, flattened tree representation.
  */
